@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/createwithmaria/static/css/main.073c9b0a.css",
+    "main.js": "/createwithmaria/static/js/main.7c9aaf51.js",
+    "static/js/787.c7b90755.chunk.js": "/createwithmaria/static/js/787.c7b90755.chunk.js",
+    "index.html": "/createwithmaria/index.html",
+    "main.073c9b0a.css.map": "/createwithmaria/static/css/main.073c9b0a.css.map",
+    "main.7c9aaf51.js.map": "/createwithmaria/static/js/main.7c9aaf51.js.map",
+    "787.c7b90755.chunk.js.map": "/createwithmaria/static/js/787.c7b90755.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7c9aaf51.js"
+  ]
+}
